@@ -1,4 +1,4 @@
-package Lecture.Lec4;
+/*package Lecture.Lec4;
 
 import java.util.PriorityQueue;
 
@@ -19,4 +19,4 @@ public class Ex000 {
 
     }
 }
-
+*/

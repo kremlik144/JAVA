@@ -1,4 +1,4 @@
-package Lecture.Lec4;
+/*package Lecture.Lec4;
 
 import java.util.Stack;
 
@@ -55,3 +55,4 @@ public class Ex005 {
         System.out.printf("%d\n", st.pop());
     }
 }
+*/

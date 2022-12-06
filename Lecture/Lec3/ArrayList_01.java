@@ -1,4 +1,4 @@
-package Lecture.Lec3;
+/*package Lecture.Lec3;
 
 // Работа с элементами коллекции ArrayList
 
@@ -17,3 +17,4 @@ public class ArrayList_01
        }
    }
 }
+*/

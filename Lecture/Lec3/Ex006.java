@@ -1,4 +1,4 @@
-package Lecture.Lec3;
+/*package Lecture.Lec3;
 
 import java.util.List;
 
@@ -12,3 +12,4 @@ public class Ex006 {
         
     }
 }
+*/

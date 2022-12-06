@@ -1,4 +1,4 @@
-package Lecture.Lec4;
+/*package Lecture.Lec4;
 
 import java.util.LinkedList;
 
@@ -13,3 +13,4 @@ public class Ex001 {
     }
     
 }
+*/

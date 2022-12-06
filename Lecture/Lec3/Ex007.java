@@ -1,4 +1,4 @@
-package Lecture.Lec3;
+/*package Lecture.Lec3;
 
 import java.util.*;
 
@@ -21,3 +21,4 @@ public class Ex007 {
 
     }
 }
+*/

@@ -1,4 +1,4 @@
-package Lecture.Lec4;
+/*package Lecture.Lec4;
 
 import java.util.*;
 
@@ -13,3 +13,4 @@ public class Ex003 {
         deque.peekFirst(); deque.peekLast();
     }
 }
+*/

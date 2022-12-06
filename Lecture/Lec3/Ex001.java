@@ -1,4 +1,4 @@
-package Lecture.Lec3;
+/*package Lecture.Lec3;
 
 public class Ex001 {
     static int[] AddItemInArray(int[] array, int item) {
@@ -21,3 +21,4 @@ public class Ex001 {
         System.out.println();
     }
 }
+*/
