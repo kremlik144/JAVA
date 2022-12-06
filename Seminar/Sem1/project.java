@@ -1,7 +1,7 @@
 package Seminar.Sem1;
-import java.util.Scanner;
-import java.util.ArrayList;
-import java.lang.Integer;
+// import java.util.Scanner;
+// import java.util.ArrayList;
+// import java.lang.Integer;
 
 
 /* 
